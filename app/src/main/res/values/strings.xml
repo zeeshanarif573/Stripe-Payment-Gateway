@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">StripePayment</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="wentWrong">Something went wrong</string>
+    <string name="plz_wait">Please Wait</string>
+</resources>
